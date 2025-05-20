@@ -1,0 +1,109 @@
+    body {
+      background-color: #FFFDF4;
+      font-family: 'Montserrat', sans-serif;
+      color: #545454;
+    }
+    .navbar {
+      background-color: #FFFDF4;
+      font-weight: 600;
+    }
+    .nav-link {
+      color: #555 !important;
+      font-weight: bold;
+      margin-right: 20px;
+    }
+    .nav-link:hover {
+      color: #4C8055 !important;
+    }
+    .btn-kb {
+      background-color: #8BC28D;
+      color: white;
+      font-weight: bold;
+      border-radius: 10px;
+      padding: 6px 16px;
+      border: none;
+      margin-left: 10px;
+    }
+    .btn-kb:hover {
+      background-color: #76aa78;
+    }
+    .logo-text {
+      color: #6FBF73;
+      font-weight: bold;
+      font-size: 1.3rem;
+    }
+    .logo-subtext {
+      color: #6FBF73;
+      font-size: 0.8rem;
+      margin-top: -8px;
+    }
+    table {
+      width: 50%;
+      margin: 30px auto;
+      border-collapse: collapse;
+  }
+    .carousel-image {
+    object-fit: contain;
+    width: auto;
+    height: 100%;
+  }
+  .card-text {
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* Maks 3 baris */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+  th {
+      background-color: #007BFF;
+      color: white;
+  }
+  td, th {
+      padding: 12px;
+      text-align: left;
+  }
+  /* Tambahan untuk halaman login admin */
+.login-box {
+  background-color: #DDEB9D;
+  border-radius: 20px;
+  padding: 40px;
+  max-width: 400px;
+  margin: 80px auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Tombol utama admin */
+.btn-admin {
+  background-color: #6c7d47;
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+  border: none;
+}
+
+.btn-admin:hover {
+  background-color: #5b6b3d;
+}
+
+/* Tabel data admin */
+.admin-table {
+  width: 90%;
+  margin: 30px auto;
+  border-collapse: collapse;
+  background-color: white;
+  box-shadow: 0 0 8px rgba(0,0,0,0.05);
+}
+
+.admin-table th {
+  background-color: #8BC28D;
+  color: white;
+  font-weight: 600;
+}
+
+.admin-table td, .admin-table th {
+  padding: 12px;
+  border-bottom: 1px solid #ccc;
+}
+
+
+  
+    

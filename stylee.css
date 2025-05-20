@@ -1,0 +1,31 @@
+ body {
+      font-family: 'Montserrat', sans-serif;
+      background-color: #FFFDF4;
+    }
+    .sidebar {
+      height: 100vh;
+      background-color: #DDEB9D;
+      padding-top: 20px;
+      position: fixed;
+      width: 220px;
+      box-shadow: 2px 0 5px rgba(0,0,0,0.05);
+    }
+    .sidebar a {
+      color: #4C8055;
+      display: block;
+      padding: 12px 20px;
+      font-weight: 600;
+      text-decoration: none;
+    }
+    .sidebar a:hover {
+      background-color: #c8da8d;
+      color: #2f5c3f;
+    }
+    .content {
+      margin-left: 240px;
+      padding: 40px;
+    }
+    h2 {
+      color: #4C8055;
+      font-weight: 700;
+    }
